@@ -14,7 +14,7 @@
 ---
 
 - 👨‍💻 As a Frontend Developer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Frontend Development (Next.js and React).
+- 💬 Ask me about my experience in Frontend Development (Next.js and React).
 - 🌱 I’m currently learning Backend Development (Node.js)
 - ⚡ Fun fact I am so funny
 
