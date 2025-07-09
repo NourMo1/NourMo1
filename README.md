@@ -1,4 +1,3 @@
-
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
@@ -14,9 +13,9 @@
 
 ---
 
-- 👨‍💻 As an Frontend Developer, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a Frontend Developer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Frontend Development (Next.js and React).
-- 🌱 I’m currently learning backend development (Node.js)
+- 🌱 I’m currently learning Backend Development (Node.js)
 - ⚡ Fun fact I am so funny
 
 ## 🛠 &nbsp;Tech Stack
