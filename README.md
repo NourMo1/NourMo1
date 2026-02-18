@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hi, I'm Nour Al-Din Mohamed
+  Hi, I'm Nour Aldin Mohamed
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
